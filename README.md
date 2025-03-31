@@ -72,6 +72,8 @@ Each butterfly has an associated image in the drawable folder. It also has some 
 #### Values folder:
 Contains an `color.xml`, `string.xml` file.
 ### Screenshots of Butterfly App
+
+<img src="Screenshot_MainScreen.png" alt="Local Image" width="500">
 ![Local Image](Screenshot_MainScreen.png)
 ![Local Image](Screenshot_ButterflyScreen.png)
 ![Local Image](Screenshot_DetailsScreen.png)
