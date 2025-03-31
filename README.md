@@ -1,4 +1,4 @@
-# Multi Activity App (Butterfly App🦋)- README
+# Multi Activity App (Butterfly App🦋)
 ## Peace Samuel
 
 ### Table of Contents
