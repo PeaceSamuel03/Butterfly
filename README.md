@@ -74,7 +74,6 @@ Contains an `color.xml`, `string.xml` file.
 ### Screenshots of Butterfly App
 
 <img src="Screenshot_MainScreen.png" alt="Local Image" width="500">
-![Local Image](Screenshot_MainScreen.png)
-![Local Image](Screenshot_ButterflyScreen.png)
-![Local Image](Screenshot_DetailsScreen.png)
-![Local Image](Screenshot_WebView.png)
+<img src="Screenshot_ButterflyScreen.png" alt="Local Image" width="500">
+<img src="Screenshot_DetailsScreen.png" alt="Local Image" width="500">
+<img src="Screenshot_WebView.png" alt="Local Image" width="500">
