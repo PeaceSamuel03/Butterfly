@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<butterflies>
+    <butterfly>
+        <name>Peacock</name>
+        <image>@drawable/peacock.jpg</image>
+        <description1>The Peacock is a multi-coloured butterfly species in Ireland</description1>
+        <description2>
+            The scientific name for the Peacock is the Aglais io/ Inachis io.
+            The butterfly has a wingspan of 5.0 to 5.5 cm (2 to 2+1⁄8 in).
+            The base colour of the wings is a rusty red, and at each wingtip it bears a distinctive, black, blue and yellow eyespot.
+            The underside is a cryptically coloured dark brown or black.</description2>
+        <url>https://species.biodiversityireland.ie/profile.php?taxonId=77279&amp;taxonName=Peacock</url>
+        <size>5</size>
+    </butterfly>
+
+    <butterfly>
+        <name>Small Tortoiseshell</name>
+        <image>@drawable/small_tortoiseshell.jpg</image>
+        <description1>The Small Tortoiseshell is a very common, multi-coloured butterfly species in Ireland</description1>
+        <description2>
+            The scientific name for the Small Tortoiseshell is the Aglais urticae,
+            It is a medium-sized butterfly that is mainly reddish orange,
+            with black and yellow markings on the forewings as well as a ring of blue spots around the edge of the wings.
+            It has a wingspan ranging from 4.5 to 6.2 cm.
+        </description2>
+        <url>https://butterflyconservation.ie/wp/?s=small+tortoiseshell</url>
+        <size>5</size>
+    </butterfly>
+
+    <butterfly>
+        <name>Painted Lady</name>
+        <image>@drawable/painted_lady.jpg</image>
+        <description1>The Painted Lady is a multi-coloured butterfly species in Ireland</description1>
+        <description2>
+            The scientific name for the Painted Lady is the Cynthia cardui,
+            It is a medium-sized butterfly that is predominantly a dull orange with black
+            markings and has a colourful underside.
+            It has a wingspan of 4 to 7.3 cm.
+        </description2>
+        <url>https://www.ulsterwildlife.org/wildlife-explorer/invertebrates/butterflies/painted-lady#:~:text=How%20to%20identify,spots%20along%20the%20wing%20margins.</url>
+        <size>6</size>
+    </butterfly>
+
+    <butterfly>
+        <name>Red Admiral</name>
+        <image>@drawable/red_admiral.jpg</image>
+        <description1>The Red Admiral is a multi-coloured butterfly species in Ireland</description1>
+        <description2>
+            The scientific name for the Red Admiral is the Vanessa atalanta,
+            It is mainly dark brown in colour, with bright red stripes.
+            It has a wingspan of 4.5 to 7.6 cm.
+        </description2>
+        <url>https://irelandswildlife.com/red-admiral-vanessa-atalanta/#:~:text=The%20Red%20admiral%20is%20one,border%20on%20the%20lower%20wing.</url>
+        <size>6</size>
+    </butterfly>
+
+    <butterfly>
+        <name>Silver-washed Fritillary</name>
+        <image>@drawable/silver_washed_fritillary.jpg</image>
+        <description1>The Silver-washed fritillary is a multi-coloured butterfly species in Ireland</description1>
+        <description2>
+            The scientific name for the Silver-washed Fritillary id the Argynnis paphia,
+            It is a deep orange with black spots on the upperside of its wings.
+            It has a wingspan of 5.4 to 7 cm.
+        </description2>
+        <url>https://species.biodiversityireland.ie/profile.php?taxonId=77219</url>
+        <size>6</size>
+    </butterfly>
+
+    <butterfly>
+        <name>Dark Green Fritillary</name>
+        <image>@drawable/dark_green_fritillary.jpg</image>
+        <description1>The Dark Green Fritillary is a multi-coloured butterfly species in Ireland</description1>
+        <description2>
+            The scientific name of the Dark Green Fritillary is the Argynnia aglaja,
+            It is a fiery reddish yellow above, with markings in black and some slight greenish patches.
+            It has a wingspan of 5.8 to 6.8 cm.
+        </description2>
+        <url>https://wildirelandtour.ie/dark-green-fritillary-17-butterfly-challenge/#:~:text=The%20dark%2Dgreen%20fritillary%20is,is%20a%20dark%20green%20fritillary.</url>
+        <size>6</size>
+    </butterfly>
+
+    <butterfly>
+        <name>Marsh Fritillary</name>
+        <image>@drawable/marsh_fritillary.jpg</image>
+        <description1>The Marsh Fritillary is a multi-coloured butterfly species in Ireland</description1>
+        <description2>
+            The scientific name for the Marsh Fritillary is the Eurodryas aurinia,
+            It has a dark and colourful pattern
+            It has a wingspan of 3.5 to 5 cm.
+        </description2>
+        <url>https://www.ipcc.ie/a-to-z-peatlands/marsh-fritillary-butterfly/</url>
+        <size>4</size>
+    </butterfly>
+
+    <butterfly>
+        <name>Pearl-bordered Fritillary</name>
+        <image>@drawable/pearl_bordered_fritillary.jpg</image>
+        <description1>The Pearl-bordered fritillary is a multi-coloured butterfly species in Ireland</description1>
+        <description2>
+            The scientific name for the Pearl-bordered Fritillary is the Clossiana euphrosyne,
+            It is an elaborate and colourful butterfly with a pearly border, and is also rare,
+            It has a wingspan of 3.8 to 4.7 cm.
+        </description2>
+        <url>https://species.biodiversityireland.ie/profile.php?taxonId=77224</url>
+        <size>4</size>
+    </butterfly>
+
+    <butterfly>
+        <name>Comma</name>
+        <image>@drawable/comma.jpg</image>
+        <description1>The Comma is a multi-coloured butterfly species in Ireland</description1>
+        <description2>
+            The scientific name for the Comma is the Polygonia c-album,
+            It is a fascinating butterfly with ragged edges and colourful wings.
+            It has a wingspan of 5 to 6.4 cm.
+        </description2>
+        <url>https://butterfly-conservation.org/butterflies/comma#:~:text=The%20Comma%20is%20a%20fascinating,close%20resemblance%20to%20bird%20droppings.</url>
+        <size>5</size>
+    </butterfly>
+
+    <butterfly>
+        <name>Small Blue</name>
+        <image>@drawable/small_blue.jpg</image>
+        <description1>The Small Blue is a small butterfly species in Ireland</description1>
+        <description2>
+            The scientific name for the Small Blue is the Cupido minimus,
+            It is the smallest Irish butterfly and is quite rare,
+            It has a wingspan of around 2 cm.
+        </description2>
+        <url>https://species.biodiversityireland.ie/profile.php?taxonId=77246</url>
+        <size>2</size>
+    </butterfly>
+
+    <butterfly>
+        <name>Common Blue</name>
+        <image>@drawable/common_blue.jpg</image>
+        <description1>The Common Blue is a small butterfly species in Ireland</description1>
+        <description2>
+            The scientific name for the Common Blue is the Polyommatus icarus,
+            The Common Blue is the most colourful of the Blues found in Ireland. The male is a very attractive shiny blue, whereas the female is mainly brown.
+            The underside is very decorative with orange crescents and black spots.
+            It has a wingspan of around 2.8 to 3.6 cm.
+        </description2>
+        <url>https://en.wikipedia.org/wiki/Common_blue</url>
+        <size>3</size>
+    </butterfly>
+
+    <butterfly>
+        <name>Brown Hairstreak</name>
+        <image>@drawable/brown_hairstreak.jpg</image>
+        <description1>The Brown Hairstreak is a small butterfly species in Ireland</description1>
+        <description2>
+            The scientific name for the Brown Hairstreak is the Thecla betulae,
+            This butterfly is very rare, found only within the Burren and neighbouring counties. It has dark brown wings , the female having an orange patch on each hindwing.
+            It is quite difficult to see as it usually frequents the tops of trees and shrubs, usually blackthorn.
+            It has a wingspan of around 3.6 to 4.5 cm.
+        </description2>
+        <url>https://en.wikipedia.org/wiki/Brown_hairstreak</url>
+        <size>4</size>
+    </butterfly>
+
+    <butterfly>
+        <name>Small White</name>
+        <image>@drawable/small_white.jpg</image>
+        <description1>The Small White is a small butterfly species in Ireland</description1>
+        <description2>
+            The scientific name for the Small White is the Pieris rapae,
+            The underside of the Small White is yellow with a light grey dusting.
+            This very common species frequents meadows, hedgerows and gardens.
+            It has a wingspan of around 4.7 to 5.7 cm.
+        </description2>
+        <url>https://en.wikipedia.org/wiki/Pieris_rapae</url>
+        <size>5</size>0
+    </butterfly>
+
+</butterflies>
